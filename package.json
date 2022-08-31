@@ -1,0 +1,19 @@
+{
+  "name": "nodeintro",
+  "version": "1.0.0",
+  "description": "node files practice",
+  "main": "nodeIntro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ranepours/nodeIntro.git"
+  },
+  "author": "Rane Jasia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ranepours/nodeIntro/issues"
+  },
+  "homepage": "https://github.com/ranepours/nodeIntro#readme"
+}
